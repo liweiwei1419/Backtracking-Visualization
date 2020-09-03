@@ -13,5 +13,6 @@
 
 ## 说明
 
-程序的入口是以 `Visualizer` 结尾的两个文件 NQueensVisualizer 和 SudokuVisualizer 的底部的 `main` 方法。
++ 程序的入口是：以 `Visualizer` 结尾的两个文件 NQueensVisualizer 和 SudokuVisualizer 的底部的 `main` 方法；
++ 我对刘老师的代码的处理，去掉了一些工程化的代码（例如参数校验），以尽量少的代码完成可视化。
 
