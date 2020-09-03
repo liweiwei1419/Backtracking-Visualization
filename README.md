@@ -7,6 +7,11 @@
 + [N 皇后问题](https://leetcode-cn.com/problems/n-queens/)
 + [数独问题](https://leetcode-cn.com/problems/sudoku-solver/)
 
+![N 皇后问题效果](https://liweiwei1419.gitee.io/visualgo/backtracking/4-queens.gif)
+
+
+![数独问题效果](https://liweiwei1419.gitee.io/visualgo/backtracking/Sudoku.gif)
+
 ## 参考资料
 
 + liuyubobobo 老师在慕课网上开设的课程《看得见的算法》第 8 章 《益智游戏自动生成解 - Move the Box》[源代码](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization/tree/master/08-Move-the-Box-Solver)
